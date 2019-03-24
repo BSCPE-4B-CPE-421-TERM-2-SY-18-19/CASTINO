@@ -1,0 +1,6 @@
+
+
+-The raspberry pi is functional because it has an OS already installed.
+-The cables that used is in good condition.
+-The charger used to supply the raspberry pi reached the required voltage in order for the
+ raspberry pi to operate.

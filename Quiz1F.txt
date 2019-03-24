@@ -1,0 +1,24 @@
+CASTINO,KETEL D.
+BS CPE 4B
+
+CPE 421 (TROUBLE SHOOTING O COMPUTER SYSTEM)
+
+
+
+
+OBSERVATION
+	- the led on the motherboard lights up.
+	- the fans that attached on the system works well.
+	- the monitor wont turn on.
+	- the computer only turns on for only a few seconds.
+	- we conclude that the power supply cannot support the entire system to turn on.
+
+
+POSSIBLE SOLUTIONS
+	- the fuse of the powersupply needed to be replaced.
+	- the capacitor also needed to be replaced because the capacitor on the
+	  powersupply bloated.
+	- we conclude that the powersupply needed to be replaced. 
+
+
+
